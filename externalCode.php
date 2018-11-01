@@ -1,4 +1,7 @@
 <?php 
-echo "done";
+e
+c
+h
+o "done";
 
 echo "---------- Hello ----------"; ?>
